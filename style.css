@@ -30,11 +30,13 @@ ul {
 ul li a {
     text-decoration: none;
     color: #7D7987;
+    opacity: 0.5;
 }
 
 ul li a:hover {
     font-weight: bold;
     color: #89C5CC;
+    opacity: 1;
 }
 
 h1, ul{
